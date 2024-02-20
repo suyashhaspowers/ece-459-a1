@@ -1,0 +1,101 @@
+#V2
+how-to-install libgs127
+how-to-install libmg17.6.0
+how-to-install libmg
+how-to-install 3depict
+info libgslcblas0
+load-csv data/packages.csv
+enq-verify bash
+enq-verify 0ad
+enq-verify libc6 28
+quit
+load-csv data/packages.csv
+enq-verify bash
+enq-verify 0ad
+quit
+enq-verify bash
+load-csv data/packages.csv
+enq-verify bash
+quit
+load-csv data/packages.csv
+enq-verify bash
+enq-verify 0ad
+quit
+load-csv data/packages.csv
+enq-verify bash
+quit
+enq-verify bash
+load-csv data/packages.csv
+enq-verify bash
+enq-verify 0ad
+enq-verify libc6 28
+quit
+load-csv data/packages.csv
+enq-verify bash
+execute
+enq-verify 0ad
+execute
+enq-verify libc6 28
+quit
+ld
+how-to-install 3depict
+bash libgslcblas0
+info libgslcblas0
+how-to-install libmgl-data
+how-to-install libgsl27
+how-to-install libmgl-data
+how-to-install bash
+how-to-install libxml2\\
+how-to-install libxml2
+info 3depict
+transitive-dep-solution 3depict
+transitive-dep-solution libgslcblas0
+info libc6
+deps-available 3depict
+ld
+how-to-install 3depict
+deps-available libgslcblas0
+quit
+ld
+how-to-install 3depict
+quit
+ld
+how-to-install 3depict
+exit
+quit
+ld
+how-to-install 3depict
+transitive-dep-solution 3depict
+how-to-install libc6
+info libc6
+exit
+ld
+how-to-install 3depict
+ld
+how-to-install 3depict
+transitive-dep-solution 3depict
+ld
+how-to-install 3depict
+ld
+how-to-install 3depict
+ld
+how-to-install 3depict
+ld
+how-to-install 3depict
+ld
+how-to-install 3depict
+ld
+how-to-install 3depict
+info libgslcblas0
+deps-available libgsl27
+deps-available libgslcblas0
+deps libgsl27
+ld
+deps-available libgsl27
+ld
+deps-available libgsl27
+how-to-install 3depict
+ld
+how-to-install 3depict
+deps-available libgsl27
+deps-available libgslcblas0
